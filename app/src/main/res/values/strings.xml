@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Movie Catalog</string>
+    <string name="cari" />
+    <string name="masukan_judul_movie" />
+    <string name="date" />
+    <string name="description" />
+    <string name="title" />
+</resources>
